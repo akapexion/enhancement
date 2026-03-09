@@ -1,5 +1,9 @@
 /*
-Garbage collection in JavaScript automatically frees memory by removing objects that are no longer used or reachable by the program.
+Garbage Collection in JavaScript is a memory management process where the JavaScript engine automatically removes unused variables or objects from memory so that the program can run efficiently.
+
+In simple words:
+Garbage Collection frees the memory that is no longer being used in your program.
+
 */
 
 // Garbage Collector 'Mark ans Sweep'
